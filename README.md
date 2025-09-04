@@ -37,7 +37,7 @@ The goal was to calculate machine downtime caused by unhealthy device statuses a
 
 ## 📊 Dashboard (Screenshot)
 ### Factory vs Device Type
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](/dashboard.png)
 
 ---
 
@@ -55,4 +55,4 @@ The goal was to calculate machine downtime caused by unhealthy device statuses a
 
 ---
 
-⭐ If you found this useful, connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-raj) 🚀
+⭐ If you found this useful, connect with me on [LinkedIn](https://www.linkedin.com/in/raj24aditya) 🚀
